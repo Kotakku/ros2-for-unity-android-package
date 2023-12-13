@@ -16,3 +16,7 @@ ros2-for-unity unitypackage for Android
     - Target ArchitecturesのARM64のチェックを入れる
     - Internet Accessを「Auto」から「Require」に変更
 - ビルドして実機で動かす
+
+## ビルド
+ビルドを自前で行いたい場合は以下を参照のこと  
+https://github.com/Kotakku/ros2-for-unity
