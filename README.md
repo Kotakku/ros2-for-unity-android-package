@@ -1,4 +1,8 @@
 # ros2-for-unity-android-package
+
+**2024/3/31アーカイブ済み**
+今後は[ros2-for-unity](https://github.com/Kotakku/ros2-for-unity)のReleasesからunitypackageをダウンロードしてください
+
 ros2-for-unity unitypackage for Android
 
 [ros2-for-unity](https://github.com/RobotecAI/ros2-for-unity)がAndroid端末でも動作するように変更を加えたunitypackage
